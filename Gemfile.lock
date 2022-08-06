@@ -2,12 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     gemoji (3.0.1)
+    plist (3.6.0)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
   gemoji
+  plist
 
 BUNDLED WITH
    2.3.16
