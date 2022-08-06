@@ -1,13 +1,20 @@
+GIT
+  remote: https://github.com/github/gemoji.git
+  revision: 55bb37afa4a24e92709ff135a9be4a4f1e79aaef
+  specs:
+    gemoji (4.0.0.rc3)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    gemoji (3.0.1)
+    sqlite3 (1.4.4)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  gemoji
+  gemoji!
+  sqlite3
 
 BUNDLED WITH
    2.3.16
