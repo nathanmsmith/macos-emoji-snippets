@@ -70,6 +70,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫠</string>
+		<key>shortcut</key>
+		<string>:melting_face:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>😉</string>
 		<key>shortcut</key>
 		<string>:wink:</string>
@@ -190,6 +196,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫢</string>
+		<key>shortcut</key>
+		<string>:face_with_open_eyes_and_hand_over_mouth:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫣</string>
+		<key>shortcut</key>
+		<string>:face_with_peeking_eye:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🤫</string>
 		<key>shortcut</key>
 		<string>:shushing_face:</string>
@@ -199,6 +217,12 @@
 		<string>🤔</string>
 		<key>shortcut</key>
 		<string>:thinking:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫡</string>
+		<key>shortcut</key>
+		<string>:saluting_face:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -229,6 +253,12 @@
 		<string>😶</string>
 		<key>shortcut</key>
 		<string>:no_mouth:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫥</string>
+		<key>shortcut</key>
+		<string>:dotted_line_face:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -271,6 +301,12 @@
 		<string>🤥</string>
 		<key>shortcut</key>
 		<string>:lying_face:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫨</string>
+		<key>shortcut</key>
+		<string>:shaking_face:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -418,6 +454,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫤</string>
+		<key>shortcut</key>
+		<string>:face_with_diagonal_mouth:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>😟</string>
 		<key>shortcut</key>
 		<string>:worried:</string>
@@ -463,6 +505,12 @@
 		<string>🥺</string>
 		<key>shortcut</key>
 		<string>:pleading_face:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🥹</string>
+		<key>shortcut</key>
+		<string>:face_holding_back_tears:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -742,12 +790,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>💋</string>
-		<key>shortcut</key>
-		<string>:kiss:</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>💌</string>
 		<key>shortcut</key>
 		<string>:love_letter:</string>
@@ -832,6 +874,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🩷</string>
+		<key>shortcut</key>
+		<string>:pink_heart:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🧡</string>
 		<key>shortcut</key>
 		<string>:orange_heart:</string>
@@ -856,6 +904,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🩵</string>
+		<key>shortcut</key>
+		<string>:light_blue_heart:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>💜</string>
 		<key>shortcut</key>
 		<string>:purple_heart:</string>
@@ -874,9 +928,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🩶</string>
+		<key>shortcut</key>
+		<string>:grey_heart:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🤍</string>
 		<key>shortcut</key>
 		<string>:white_heart:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>💋</string>
+		<key>shortcut</key>
+		<string>:kiss:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -925,12 +991,6 @@
 		<string>🕳️</string>
 		<key>shortcut</key>
 		<string>:hole:</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>💣</string>
-		<key>shortcut</key>
-		<string>:bomb:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1006,6 +1066,42 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫱</string>
+		<key>shortcut</key>
+		<string>:rightwards_hand:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫲</string>
+		<key>shortcut</key>
+		<string>:leftwards_hand:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫳</string>
+		<key>shortcut</key>
+		<string>:palm_down_hand:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫴</string>
+		<key>shortcut</key>
+		<string>:palm_up_hand:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫷</string>
+		<key>shortcut</key>
+		<string>:leftwards_pushing_hand:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫸</string>
+		<key>shortcut</key>
+		<string>:rightwards_pushing_hand:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>👌</string>
 		<key>shortcut</key>
 		<string>:ok_hand:</string>
@@ -1033,6 +1129,12 @@
 		<string>🤞</string>
 		<key>shortcut</key>
 		<string>:crossed_fingers:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫰</string>
+		<key>shortcut</key>
+		<string>:hand_with_index_finger_and_thumb_crossed:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1093,6 +1195,12 @@
 		<string>☝️</string>
 		<key>shortcut</key>
 		<string>:point_up:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫵</string>
+		<key>shortcut</key>
+		<string>:index_pointing_at_the_viewer:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1171,6 +1279,12 @@
 		<string>🙌</string>
 		<key>shortcut</key>
 		<string>:raised_hands:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫶</string>
+		<key>shortcut</key>
+		<string>:heart_hands:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1315,6 +1429,12 @@
 		<string>👄</string>
 		<key>shortcut</key>
 		<string>:lips:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫦</string>
+		<key>shortcut</key>
+		<string>:biting_lip:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2074,6 +2194,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫅</string>
+		<key>shortcut</key>
+		<string>:person_with_crown:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🤴</string>
 		<key>shortcut</key>
 		<string>:prince:</string>
@@ -2161,6 +2287,18 @@
 		<string>🤰</string>
 		<key>shortcut</key>
 		<string>:pregnant_woman:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫃</string>
+		<key>shortcut</key>
+		<string>:pregnant_man:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫄</string>
+		<key>shortcut</key>
+		<string>:pregnant_person:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2371,6 +2509,12 @@
 		<string>🧟‍♀️</string>
 		<key>shortcut</key>
 		<string>:zombie_woman:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🧌</string>
+		<key>shortcut</key>
+		<string>:troll:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3298,6 +3442,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫎</string>
+		<key>shortcut</key>
+		<string>:moose:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫏</string>
+		<key>shortcut</key>
+		<string>:donkey:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🐎</string>
 		<key>shortcut</key>
 		<string>:racehorse:</string>
@@ -3676,6 +3832,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🪽</string>
+		<key>shortcut</key>
+		<string>:wing:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐦‍⬛</string>
+		<key>shortcut</key>
+		<string>:black_bird:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪿</string>
+		<key>shortcut</key>
+		<string>:goose:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🐸</string>
 		<key>shortcut</key>
 		<string>:frog:</string>
@@ -3793,6 +3967,18 @@
 		<string>🐚</string>
 		<key>shortcut</key>
 		<string>:shell:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪸</string>
+		<key>shortcut</key>
+		<string>:coral:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪼</string>
+		<key>shortcut</key>
+		<string>:jellyfish:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3916,6 +4102,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🪷</string>
+		<key>shortcut</key>
+		<string>:lotus:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🏵️</string>
 		<key>shortcut</key>
 		<string>:rosette:</string>
@@ -3955,6 +4147,12 @@
 		<string>🌷</string>
 		<key>shortcut</key>
 		<string>:tulip:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪻</string>
+		<key>shortcut</key>
+		<string>:hyacinth:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4033,6 +4231,24 @@
 		<string>🍃</string>
 		<key>shortcut</key>
 		<string>:leaves:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪹</string>
+		<key>shortcut</key>
+		<string>:empty_nest:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪺</string>
+		<key>shortcut</key>
+		<string>:nest_with_eggs:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🍄</string>
+		<key>shortcut</key>
+		<string>:mushroom:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4234,21 +4450,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>🍄</string>
-		<key>shortcut</key>
-		<string>:mushroom:</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>🥜</string>
 		<key>shortcut</key>
 		<string>:peanuts:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫘</string>
+		<key>shortcut</key>
+		<string>:beans:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🌰</string>
 		<key>shortcut</key>
 		<string>:chestnut:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫚</string>
+		<key>shortcut</key>
+		<string>:ginger_root:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫛</string>
+		<key>shortcut</key>
+		<string>:pea_pod:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4756,6 +4984,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫗</string>
+		<key>shortcut</key>
+		<string>:pouring_liquid:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🥤</string>
 		<key>shortcut</key>
 		<string>:cup_with_straw:</string>
@@ -4819,6 +5053,12 @@
 		<string>🔪</string>
 		<key>shortcut</key>
 		<string>:knife:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🫙</string>
+		<key>shortcut</key>
+		<string>:jar:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -5194,6 +5434,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🛝</string>
+		<key>shortcut</key>
+		<string>:playground_slide:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🎡</string>
 		<key>shortcut</key>
 		<string>:ferris_wheel:</string>
@@ -5488,6 +5734,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🛞</string>
+		<key>shortcut</key>
+		<string>:wheel:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🚨</string>
 		<key>shortcut</key>
 		<string>:rotating_light:</string>
@@ -5521,6 +5773,12 @@
 		<string>⚓</string>
 		<key>shortcut</key>
 		<string>:anchor:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🛟</string>
+		<key>shortcut</key>
+		<string>:ring_buoy:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -6478,6 +6736,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🔫</string>
+		<key>shortcut</key>
+		<string>:gun:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🎱</string>
 		<key>shortcut</key>
 		<string>:8ball:</string>
@@ -6493,12 +6757,6 @@
 		<string>🪄</string>
 		<key>shortcut</key>
 		<string>:magic_wand:</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🧿</string>
-		<key>shortcut</key>
-		<string>:nazar_amulet:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -6541,6 +6799,12 @@
 		<string>🪅</string>
 		<key>shortcut</key>
 		<string>:pinata:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪩</string>
+		<key>shortcut</key>
+		<string>:mirror_ball:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -6766,6 +7030,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🪭</string>
+		<key>shortcut</key>
+		<string>:folding_hand_fan:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>👛</string>
 		<key>shortcut</key>
 		<string>:purse:</string>
@@ -6853,6 +7123,12 @@
 		<string>👢</string>
 		<key>shortcut</key>
 		<string>:boot:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪮</string>
+		<key>shortcut</key>
+		<string>:hair_pick:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7084,6 +7360,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🪇</string>
+		<key>shortcut</key>
+		<string>:maracas:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪈</string>
+		<key>shortcut</key>
+		<string>:flute:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>📱</string>
 		<key>shortcut</key>
 		<string>:iphone:</string>
@@ -7129,6 +7417,12 @@
 		<string>🔋</string>
 		<key>shortcut</key>
 		<string>:battery:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪫</string>
+		<key>shortcut</key>
+		<string>:low_battery:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7822,9 +8116,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>🔫</string>
+		<string>💣</string>
 		<key>shortcut</key>
-		<string>:gun:</string>
+		<string>:bomb:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -7996,9 +8290,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🩼</string>
+		<key>shortcut</key>
+		<string>:crutch:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🩺</string>
 		<key>shortcut</key>
 		<string>:stethoscope:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🩻</string>
+		<key>shortcut</key>
+		<string>:x_ray:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8122,6 +8428,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🫧</string>
+		<key>shortcut</key>
+		<string>:bubbles:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🪥</string>
 		<key>shortcut</key>
 		<string>:toothbrush:</string>
@@ -8170,6 +8482,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🧿</string>
+		<key>shortcut</key>
+		<string>:nazar_amulet:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪬</string>
+		<key>shortcut</key>
+		<string>:hamsa:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>🗿</string>
 		<key>shortcut</key>
 		<string>:moyai:</string>
@@ -8179,6 +8503,12 @@
 		<string>🪧</string>
 		<key>shortcut</key>
 		<string>:placard:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🪪</string>
+		<key>shortcut</key>
+		<string>:identification_card:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -8536,6 +8866,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🪯</string>
+		<key>shortcut</key>
+		<string>:khanda:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>♈</string>
 		<key>shortcut</key>
 		<string>:aries:</string>
@@ -8746,6 +9082,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>🛜</string>
+		<key>shortcut</key>
+		<string>:wireless:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>📳</string>
 		<key>shortcut</key>
 		<string>:vibration_mode:</string>
@@ -8797,6 +9139,12 @@
 		<string>➗</string>
 		<key>shortcut</key>
 		<string>:heavy_division_sign:</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🟰</string>
+		<key>shortcut</key>
+		<string>:heavy_equals_sign:</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
